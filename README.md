@@ -25,7 +25,7 @@ Fetches real data from the GitHub API and displays your repos, stats, and profil
 2. Open app.js and replace YOUR_GITHUB_USERNAME with your real username
 3. Open index.html in your browser — no build step needed!
 
-[[##]https://forurmah.github.io/dev-dashboard/)](https://forurmah.github.io/dev-dashboard/)  Deploy to GitHub Pages
+[[##]https://forurmah.github.io/dev-dashboard/)] Deploy to GitHub Pages
 1. Push to GitHub
 2. Go to Settings → Pages → Source → main / root
 3. Live at: https://YOUR_USERNAME.github.io/dev-dashboard
