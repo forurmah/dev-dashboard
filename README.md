@@ -21,11 +21,11 @@ Fetches real data from the GitHub API and displays your repos, stats, and profil
 - GitHub REST API — Fetching real user and repo data
 
 [##](https://forurmah.github.io/dev-dashboard/)  Getting Started
-1. Clone the repo: git clone https://github.com/YOUR_USERNAME/dev-dashboard.git
+1. Clone the repo: git clone https://github.com/forurmah/dev-dashboard.git
 2. Open app.js and replace YOUR_GITHUB_USERNAME with your real username
 3. Open index.html in your browser — no build step needed!
 
-[[##]https://forurmah.github.io/dev-dashboard/)] Deploy to GitHub Pages
+[##]https://forurmah.github.io/dev-dashboard/)Deploy to GitHub Pages
 1. Push to GitHub
 2. Go to Settings → Pages → Source → main / root
 3. Live at: https://YOUR_USERNAME.github.io/dev-dashboard
