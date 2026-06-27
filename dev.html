@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dev Dashboard</title>
+  <link rel="stylesheet" href="dev.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-left">
+      <div class="avatar" id="avatar"></div>
+      <div>
+        <h1 id="username">Loading...</h1>
+        <p id="bio"></p>
+      </div>
+    </div>
+    <button class="toggle-btn" id="themeToggle">🌙 Dark Mode</button>
+  </header>
+
+  <section class="stats" id="stats">
+    <div class="stat-card">
+      <span class="stat-number" id="repoCount">—</span>
+      <span class="stat-label">Repositories</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-number" id="followerCount">—</span>
+      <span class="stat-label">Followers</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-number" id="followingCount">—</span>
+      <span class="stat-label">Following</span>
+    </div>
+  </section>
+
+  <section class="search-bar">
+    <input type="text" id="searchInput" placeholder="🔍 Search repositories..." />
+  </section>
+
+  <section class="repos" id="reposGrid">
+    <div class="loading">Fetching repositories...</div>
+  </section>
+
+  <script src="dev.js"></script>
+</body>
+</html>
+
