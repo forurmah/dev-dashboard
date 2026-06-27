@@ -14,7 +14,7 @@ Fetches real data from the GitHub API and displays your repos, stats, and profil
 - Fully responsive — works on mobile and desktop
 - No frameworks — pure HTML, CSS, JavaScript
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - HTML5 — Page structure
 - CSS3 — Styling, CSS variables for theming
 - JavaScript ES6+ — API calls, DOM manipulation, search filter
@@ -44,6 +44,6 @@ Fetches real data from the GitHub API and displays your repos, stats, and profil
 
 ##  Author
 Mahsa
-- GitHub: @yforurmah
+- GitHub: @forurmah
 
 
